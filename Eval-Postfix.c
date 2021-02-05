@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 int stack[20];
 int top=-1;
 void push(int x)
@@ -56,7 +57,7 @@ int main()
             }
             case '^':
             {
-                n3 = n1 ^ n2;
+                n3 = pow(n1,n2);
                 break;
             }
             }
