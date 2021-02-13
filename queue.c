@@ -1,4 +1,6 @@
 /** front is updated while poping* */
+/*CODE BY NIKHIL AMBIGAR*/ 
+
 #include<stdio.h>
 int queue[100],n,ch,front,rear,x;
 void main()
