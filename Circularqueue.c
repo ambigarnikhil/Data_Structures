@@ -1,3 +1,5 @@
+/*CODE BY NIKHIL AMBIGAR*/ 
+
 #include<stdio.h>
 int cqueue[100];
 void insert();
