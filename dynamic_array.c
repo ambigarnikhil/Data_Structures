@@ -1,4 +1,5 @@
 /*Create a array dynamically and store all the elements based on user input and display the array*/
+/*CODE BY NIKHIL AMBIGAR*/ 
 
 #include<stdio.h>
 #include<stdlib.h>
