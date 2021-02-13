@@ -1,3 +1,5 @@
+/*CODE BY NIKHIL AMBIGAR*/ 
+
 #include<stdio.h>
 #include<stdlib.h>
 
