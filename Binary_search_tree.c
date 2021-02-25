@@ -1,3 +1,4 @@
+/*Code by Nikhil Ambigar*/
 #include<stdio.h>
 #include<stdlib.h>
 
